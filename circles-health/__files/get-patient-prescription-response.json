@@ -1,0 +1,10 @@
+{
+  "Prescription Details": {
+    "healthId":"{{request.path.[1]}}",
+    "prescriptionId": "12376",
+    "medicationName": "Dolo-650",
+    "prescription": "one Each for 2 days",
+    "prescribedDoctorDetails" : "Krishna",
+    "medicineDuration" : "3 days"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/getpatientprescription/([a-zA-Z0-9]+)"
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "get-patient-prescription-response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

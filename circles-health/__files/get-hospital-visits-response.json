@@ -1,0 +1,10 @@
+{
+  "Hospital visit Details": {
+    "healthId":"{{request.path.[1]}}",
+    "hospitalVistsId": "5678",
+    "date": "2024-12-11",
+    "doctorName": "Krishna",
+    "hospitalName" : "KIMS",
+    "hospitalAddress" : "Panjagutta,Hyderabad"
+  }
+}

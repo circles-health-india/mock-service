@@ -1,0 +1,10 @@
+{
+  "Lab test Details": {
+    "healthId":"{{request.path.[1]}}",
+    "labTestId": "1267",
+    "date": "2024-12-11",
+    "testName": "Bp test",
+    "labName" : "Vijay Diagnostics",
+    "hospitalName" : "KIMS"
+  }
+}

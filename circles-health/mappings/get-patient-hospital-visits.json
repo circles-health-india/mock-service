@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/getpatienthospitalvisits/([a-zA-Z0-9]+)"
+  },
+  "response": {
+    "status": 201,
+    "bodyFileName": "get-hospital-visits-response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
